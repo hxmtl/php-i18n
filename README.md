@@ -1,3 +1,5 @@
+
+
 # PHP i18n
 This is a simple i18n class for PHP. Nothing fancy, but fast, because it uses caching and it is easy to use. Try it out!
 
